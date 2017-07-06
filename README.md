@@ -1,8 +1,7 @@
 # React-Tutorial
 
-## Clone repo and run npm start in root directory of terminal
+#### Clone repo and run npm start in root directory of terminal
 
-## Requirements
 #### This was the application created along with the Wes Bos React tutorial. The application does the following: 
 
 - Creates a unique store (restaurant) for each user
