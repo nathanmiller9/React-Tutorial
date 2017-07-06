@@ -6,7 +6,7 @@ const Header = (props) => {
 			<h1>
 				Catch
 				<span className="ofThe">
-					<span classNam="of">of</span>
+					<span className="of">of</span>
 					<span className="the">the</span>
 				</span>
 				Day</h1>
